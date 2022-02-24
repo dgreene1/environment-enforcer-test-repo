@@ -1,3 +1,7 @@
+# Purpose
+
+This is a repo so we can injest (via Dependabot) any new changes from https://github.com/dgreene1/environment-enforcer so we can verify that they work in a real life scenario. So we're using [Create React App](https://github.com/facebook/create-react-app) so that we can evaluate against the most common use case.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
